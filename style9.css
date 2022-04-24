@@ -74,6 +74,7 @@ footer {
   }
   .main-image-back{
     margin: 20px auto;
+    width: 90%;
   }
 
   .main-image-back:first-child{
